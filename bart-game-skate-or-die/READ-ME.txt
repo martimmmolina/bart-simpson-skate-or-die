@@ -1,0 +1,19 @@
+HI! WELCOME TO BART SIMPSON: SKATE OR DIE!
+
+PLEASE READ THESE INSTRUCTIONS TO RUN THE GAME ON YOUR COMPUTER.
+
+1. Open the "Build" folder and run the "bartgame" Jar file. (If you get an error prompt you will need to update your Java Developer Kit (JDK) or see 1.1 for an alternative).
+
+1.1 If you can't open the Jar file open the bartgame folder on a Java-Compatible text editor (IntelliJ) and run the class "Main".
+
+2. When the game is running, press SPACEBAR to begin playing. 
+
+3. Use the LEFT & RIGHT ARROW KEYS to move sideways through the road
+
+4. Use the UP & DOWN ARROW KEYS to jump or lay down. 
+
+5. If you hit an obstacle you lose (or die). Press space bar to play again.
+
+
+
+THANK YOU FOR PLAYING BART SIMPSON: SKATE OR DIE!
